@@ -1,0 +1,3 @@
+[submodule "example-data/polari"]
+	path = example-data/polari
+	url = https://gitlab.gnome.org/GNOME/polari.git
